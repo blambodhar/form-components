@@ -56,7 +56,7 @@
     "uglifyjs-webpack-plugin": "^1.2.7",
     "url-loader": "^1.0.1",
     "webpack": "^4.1.0",
-    "webpack-cli": "^3.0.0"
+    "webpack-cli": "^3.2.2"
   },
   "scripts": {
     "fractal:dev": "fractal start --sync",
